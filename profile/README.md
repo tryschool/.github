@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🎓 TrySchool 🧐</h1>
+<h1 align="center">👨‍🎓 TrysCode 🧐</h1>
 
 ###
 
